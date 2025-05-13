@@ -18,8 +18,9 @@ This project applies Convolutional Neural Networks (CNNs) to classify bird speci
 
 ## Files
 
-- `final_test.ipynb`: Full model training, evaluation, and testing notebook.
-- `bird_spectrograms.hdf5`: Preprocessed spectrogram dataset (not included here).
+- `Project_3_Code.ipynb`: Full model training, evaluation, and testing notebook.
+- `Project_3_Code.html`: Markdown Notebook.
+- `Report CNN.pdf`: Detailed Report on Project
 - `test_clips/`: Contains three mystery test audio files.
 
 ## How to Run
